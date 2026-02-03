@@ -1,1 +1,3 @@
-// Realistic Forge 1.16.5 build.gradle file
+plugins { id 'java' }
+group = 'com.example.aivillager'
+version = '1.0'
